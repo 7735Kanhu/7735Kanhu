@@ -14,18 +14,20 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+  <img src="https://img.shields.io/badge/AWS-333?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" style="border-radius: 12px; margin-right: 10px;" height="40"/>
+</p>
 
 ## 🚀 My Projects
 
