@@ -5,10 +5,10 @@
 
 Welcome to my GitHub profile! I'm passionate about software development and love contributing to open-source projects.
 
-- 🔭 I’m currently working on [your project]
-- 🌱 I’m currently learning [new technology or skill]
-- 👯 I’m looking to collaborate on [project or open source]
-- 💬 Ask me about [topics you are knowledgeable about]
+- 🔭 I’m currently working on GIS Project
+- 🌱 I’m currently learning GO.
+- 👯 I’m looking to collaborate on My project
+- 💬 Ask me about MySkills.
 - 📫 How to reach me: [email@example.com]
 - ⚡ Fun fact: [something interesting about you]
 
