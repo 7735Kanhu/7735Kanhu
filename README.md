@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
   <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000&color=000" alt="HTML5" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000&color=000" alt="CSS3" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000&color=000" alt="JavaScript" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=000&color=000" alt="PHP" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000&color=000" alt="Python" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django&logoColor=092E20&labelColor=000&color=000" alt="Django" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=000" alt="React" style="border-radius: 50%;" height="40"/>
@@ -45,8 +46,11 @@ Here are some of my favorite projects:
 
 ## 📊 GitHub Stats
 
-![Kanhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=7735Kanhu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7735Kanhu&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=7735Kanhu&show_icons=true&theme=radical" alt="Kanhu's GitHub stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7735Kanhu&theme=radical" alt="Kanhu's GitHub streak stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7735Kanhu&layout=compact&theme=radical" alt="Kanhu's Top Languages" height="180em"/>
+</p>
 
 ## 🌟 Pinned Repositories
 
