@@ -20,6 +20,12 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ![Node.js](https://img.shields.io/badge/Node.js-14.16.0-green)
 ![Git](https://img.shields.io/badge/Git-2.30.0-orange)
 ![Docker](https://img.shields.io/badge/Docker-19.03.12-blue)
+![HTML](https://img.shields.io/badge/HTML-5-red)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.0-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
 
 ## 🚀 My Projects
 
