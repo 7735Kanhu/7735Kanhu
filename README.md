@@ -14,18 +14,18 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![React](https://img.shields.io/badge/React-17.0.1-blue)
-![Node.js](https://img.shields.io/badge/Node.js-14.16.0-green)
-![Git](https://img.shields.io/badge/Git-2.30.0-orange)
-![Docker](https://img.shields.io/badge/Docker-19.03.12-blue)
-![HTML](https://img.shields.io/badge/HTML-5-red)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.0-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
-![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 
 ## 🚀 My Projects
 
