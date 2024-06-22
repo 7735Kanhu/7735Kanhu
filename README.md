@@ -5,11 +5,11 @@
 
 Welcome to my GitHub profile! I'm passionate about software development and love contributing to open-source projects.
 
-- 🔭 I’m currently working on GIS Project
+- 🔭 I’m currently working on Inventory Management System Project
 - 🌱 I’m currently learning GO.
 - 👯 I’m looking to collaborate on My project
 - 💬 Ask me about MySkills.
-- 📫 How to reach me: [email@example.com]
+- 📫 How to reach me: [kanhu2551996@gmail.com]
 - ⚡ Fun fact: [something interesting about you]
 
 ## 🛠️ Technologies & Tools
