@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
   <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=000" alt="React" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-React%20Native-333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=000" alt="React Native" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000&color=000" alt="Next.js" style="border-radius: 50%;" height="40"/>
+  <img src="https://img.shields.io/badge/-Electron.js-333?style=for-the-badge&logo=electron&logoColor=47848F&labelColor=000&color=000" alt="Electron.js" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-Angular-333?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=000&color=000" alt="Angular" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000&color=000" alt="Node.js" style="border-radius: 50%;" height="40"/>
   <img src="https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000&color=000" alt="Express" style="border-radius: 50%;" height="40"/>
